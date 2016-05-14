@@ -1,0 +1,11 @@
+{
+    "name": "vendor/studio77",
+    "description": "Description of project studio77.",
+    "authors": [
+        {
+            "name": "Dragan",
+            "email": "savicdragan2707@gmail.com"
+        }
+    ],
+    "require": {}
+}
